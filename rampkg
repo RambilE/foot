@@ -1,0 +1,5 @@
+deplistPacman=(foot ttf-0xproto-nerd)
+
+provides=("foot.ini:$HOME/.config/foot/foot.ini")
+
+SETUP() { : }
